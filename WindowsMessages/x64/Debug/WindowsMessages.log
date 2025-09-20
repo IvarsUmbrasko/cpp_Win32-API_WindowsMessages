@@ -1,0 +1,12 @@
+﻿  TBuffer.cpp
+  WindowsMessages.cpp
+  Generating Code...
+E:\dev\CppProjects\OS\WindowsMessages\WindowsMessages.cpp(70,20): warning C4244: 'return': conversion from 'ULONGLONG' to 'DWORD', possible loss of data
+E:\dev\CppProjects\OS\WindowsMessages\WindowsMessages.cpp(74,12): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+E:\dev\CppProjects\OS\WindowsMessages\WindowsMessages.cpp(74,12): warning C4302: 'type cast': truncation from 'void *' to 'int'
+E:\dev\CppProjects\OS\WindowsMessages\WindowsMessages.cpp(105,10): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+E:\dev\CppProjects\OS\WindowsMessages\WindowsMessages.cpp(200,58): warning C4312: 'type cast': conversion from 'int' to 'LPVOID' of greater size
+E:\dev\CppProjects\OS\WindowsMessages\WindowsMessages.cpp(209,12): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+E:\dev\CppProjects\OS\WindowsMessages\WindowsMessages.cpp(229,12): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+E:\dev\CppProjects\OS\WindowsMessages\WindowsMessages.cpp(259,11): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+  WindowsMessages.vcxproj -> E:\dev\CppProjects\OS\WindowsMessages\x64\Debug\WindowsMessages.exe
